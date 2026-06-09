@@ -1,0 +1,29 @@
+SOURCE: https://catalog.uic.edu/ucat/colleges-depts/engineering/cs/bs-cs/
+TITLE: BS in Computer Science - University of Illinois Chicago
+
+The Bachelor of Science in Computer Science degree from UIC requires completion of university, college, and department requirements totaling 128 credit hours.
+
+DEGREE REQUIREMENTS:
+- Nonengineering and General Education: 46 hours
+- Required College of Engineering Courses: 46 hours
+- Technical Electives: 18 hours
+- Required Mathematics Courses: 9 hours
+- Free Electives: 9 hours
+- Total: 128 hours
+
+GENERAL EDUCATION & WRITING:
+Students complete Academic Writing I: Writing in Academic and Public Contexts and Academic Writing II: Writing for Inquiry and Research, plus courses exploring world cultures, creative arts, history, individual/society, and U.S. society.
+
+MATHEMATICS FOUNDATION:
+The program requires calculus sequence (MATH 180, 181, 210) plus additional mathematics electives with at least one course taken from IE 342 or STAT 381.
+
+ENGINEERING CORE COURSES:
+Students take foundational programming (selecting from CS 111, 112, or 113), followed by core CS courses including data structures, machine organization, systems programming, computer design, algorithms, and software design.
+
+TECHNICAL ELECTIVES:
+Students select six courses from advanced offerings spanning artificial intelligence, machine learning, database systems, networking, security, compiler design, and specialized topics like visualization, game development, and cryptography.
+
+SCIENCE REQUIREMENTS:
+Two science courses must be completed from biology, chemistry, physics, or environmental science options.
+
+Program Code: 20FQ0112BS
