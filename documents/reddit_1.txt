@@ -1,0 +1,23 @@
+SOURCE: https://www.reddit.com/r/uichicago/comments/1nc39vw/uic_cs_courses_advice/
+TITLE: UIC CS Courses Advice
+SUBREDDIT: r/uichicago
+
+POST: Hi everyone! I was thinking of taking 251, 261, 211, 277, and maybe 377, next semester but have heard varying things from people who've taken it. I do have experience coding (Java, JS, CSS, Python) but none with C/C++ (although I could do a crash course over break), is it doable to do that and get A/Bs while working? Any recommended profs? Thanks in advance.
+
+COMMENT | u/cubic_zirconia:
+251, 261, and 211 together...no. All those classes feature new concepts and heavier workloads and deserve your full attention. To do that, get As and Bs, AND WORK, is unrealistic.
+
+COMMENT | u/Difficult_Assist_527 | CS 2027:
+Most the classes you just mentioned are C/C++ heavy, and I mean they expect you to know the basic/intermediate. Can you go right into it, fuck it I don't see why not? Would I recommend it, hell no.
+
+COMMENT | u/Difficult-Coyote375 | CS graduate:
+I took 211, 251, 261, 277, and Chinese 102 back in Spring 2024. It was an interesting time. tldr: it is difficult and very time consuming, many good connections might need to be made + having the will to finish through for 16 weeks straight.
+
+COMMENT | u/Fun-Possible-5442 | OP:
+Thanks for this, it was really helpful. I was thinking that since the only other class I'm doing is 277, which should be easy, it would be fine to get these three out of the way. If I replace 261 with 301 for this semester, I would be stuck with 377, 342, 341, and 261 the next semester and idk if that would be easier or harder.
+
+COMMENT | u/KreamyBeef | Mediocre CS Student:
+Maybe in a fall semester but a spring semester taking the 200 trilogy, fuck no.
+
+COMMENT | u/KreamyBeef | Mediocre CS Student:
+I always find spring semester harder to stay focused and on track because I'm usually burnt out from the fall semester. Fall semester you usually come in with more energy. Spring semester you'd think you'd be excited and refreshed at winter break but it's just not it. If you're up to it, it's a lot of work and conceptually pretty hard since they basically set you up for the 300+ level classes — go for it but not recommended.

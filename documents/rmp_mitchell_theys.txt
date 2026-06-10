@@ -1,0 +1,25 @@
+SOURCE: https://www.ratemyprofessors.com/professor/297361
+PROFESSOR: Mitchell Theys
+DEPARTMENT: Computer Science
+SCHOOL: University of Illinois Chicago
+OVERALL RATING: 3.4/5
+DIFFICULTY: 3.5/5
+WOULD TAKE AGAIN: 53%
+COURSES TAUGHT: CS261, CS362
+
+--- STUDENT REVIEWS ---
+
+REVIEW | Course: CS261/CS362 | Date: May 27, 2026 | Rating: 1.0 | Difficulty: 3.0 | Grade: B+ | Tags: Group projects, Clear grading criteria, Lecture heavy
+Some people age into wisdom. Others age into HR training opportunities.
+
+REVIEW | Course: CS362 | Date: May 3, 2026 | Rating: 1.0 | Difficulty: 3.0 | Tags: Get ready to read, Group projects, Lecture heavy
+Dude's powerpoints look like they gave the pen to a chicken to scribble on, skip.
+
+REVIEW | Course: CS362 | Date: May 3, 2026 | Rating: 1.0 | Difficulty: 3.0
+Similar criticism of presentation quality.
+
+REVIEW | Course: CS362 | Date: Mar 30, 2026 | Rating: 1.0 | Difficulty: 4.0 | Tags: Tough grader, Lots of homework
+Teaching assistants lack knowledge of supplementary material.
+
+REVIEW | Course: CS362 | Date: Mar 30, 2026 | Rating: 1.0 | Difficulty: 4.0 | Tags: Get ready to read, Lecture heavy, Test heavy
+Criticizes syllabus completion before midterms, disconnected course elements, recommends alternative instructor.

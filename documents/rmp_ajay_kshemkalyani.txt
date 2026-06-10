@@ -1,0 +1,25 @@
+SOURCE: https://www.ratemyprofessors.com/professor/1120062
+PROFESSOR: Ajay D. Kshemkalyani
+DEPARTMENT: Computer Science
+SCHOOL: University of Illinois Chicago
+OVERALL RATING: 2.6/5 (25 ratings)
+DIFFICULTY: 4.0/5
+WOULD TAKE AGAIN: 37%
+COURSES TAUGHT: CS401, CS450
+
+--- STUDENT REVIEWS ---
+
+REVIEW | Course: CS401 | Date: Jun 6, 2026 | Rating: 5.0 | Difficulty: 3.0 | Grade: A | Would Take Again: Yes
+Student praised his knowledge and fairness, noting lectures can be very boring but recommending attendance and textbook reading for success.
+
+REVIEW | Course: CS450 | Date: Jan 8, 2026 | Rating: 2.0 | Difficulty: 5.0 | Grade: B
+Noted his knowledge but criticized that slides were straight from the internet and exams lacked preparation guidance, requiring paid textbook study.
+
+REVIEW | Course: CS401 | Date: Dec 21, 2025 | Rating: 1.0 | Difficulty: 1.0 | Grade: A
+Student objected to the slideshow format, criticizing relative grading as insufficient for university standards.
+
+REVIEW | Course: CS450 | Date: Dec 21, 2025 | Rating: 1.0 | Difficulty: 1.0 | Grade: A
+Similar complaint about slideshow-based instruction and relative grading concerns.
+
+REVIEW | Course: CS450 | Date: Dec 6, 2025 | Rating: 1.0 | Difficulty: 4.0 | Grade: A
+Criticized lack of instruction (just read off slides), inadequate exam preparation resources, and limited learning materials.

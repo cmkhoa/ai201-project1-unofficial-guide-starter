@@ -1,0 +1,29 @@
+SOURCE: https://www.reddit.com/r/uichicago/comments/1juv3tv/how_is_the_work_load_for_these_classes_is_cs_361/
+TITLE: How is the workload for CS 361, CS 362, and CS 341? All doable?
+SUBREDDIT: r/uichicago
+
+POST: How is the workload for these classes? Is CS 361, CS 362, and 341 all doable?
+
+COMMENT | u/Past-Rutabaga706:
+I think it's doable. Just make sure to study and work on projects a little bit every day so you don't fall behind. Consistency is key. Also, have you taken 3 CS courses at once before? And did you do well in CS 251 and CS 261?
+
+COMMENT | u/Skip0ut | OP:
+I'm in 261 right now and so far it's not too bad but the exams are what's throwing me off the most. And no I haven't before, but it's a situation where I kinda have to.
+
+COMMENT | u/KreamyBeef | Mediocre CS Student:
+I'm in 341 right now and the projects and HW is easy as heck, but Kidane or Solworth teach it and they are not the greatest. 362 is pretty tough but it is probably the most fun class and you'll feel very proud and satisfied with what you learned and done. Some weeks are way lighter than others. 361 isn't too bad, HW is 50% of the grade but there are only 5 (they are still pretty complex) but Maratos is a Top 3 Professor and offers a lot of opportunities for points.
+
+COMMENT | u/Archer2108:
+Totally doable! You can add another 1 or 2 CS courses on top and barely break a sweat.
+
+COMMENT | u/Archer2108:
+361 with Maratos: Homework assignments are weighed heavily, but they take the place of projects too, so it's all you have to worry about. Each assignment is due ~3 weeks apart, so it's light on the schedule. Labs are optional but come with incentives for attendance and/or completion, and they really help with the homework assignments for both points and reinforcement of the course's topics. So overall, it's not that bad of a course. I'd suggest taking 342 in the same semester since some of its topics are aligned with topics seen in 341 and 361. Imo, I'd say 362 is the class you gotta worry about.
+
+COMMENT | u/CloudXG | CS Permanently Unemployed:
+361 and 362 are actually free. For 361 try to take Maratos because he is actually the goat. The labs are really useful because they essentially walk you through the homework, and labs are entirely optional if you don't want to go. 362 is really easy in the first half then quickly ramps up in difficulty. The labs and project (semester-long group project) stay pretty easy though.
+
+COMMENT | u/Mission-Committee977:
+This is absolutely doable because I myself had the same schedule in sp2024 plus two other classes (easy classes). Though I will say the teachers have made the classes a little more difficult in the more recent semesters. When I took 361, I went to all the labs which gave me bonus points and the ability to submit the HW late if needed. The tests are simple if you understand the HW and the study guide. He goes over the study guide in class and creates videos for the problems he doesn't cover. I did bad on the midterm but saved my grade with the final and ended the class with a high B (though if I asked him he would have rounded it to an A). The professor is SUPER understanding and will help you if you are sincere and are willing to be better. 362 was easy: five-to-seven HWs, nine labs one every week, milestone assignments for the group project, one midterm, one final. They release study guides and the tests are basically an exact copy. 341 covers SQL, F#, and Prolog. Five projects and a couple HWs, not too bad. There are iClickers for attendance. I took it with Kidane (her first time teaching the class) — it was kinda all over the place but I passed with a B.
+
+COMMENT | u/flaviusbelisarius547:
+When you take 362, I recommend getting a group of smallest size you can. The group project requires certain amounts of parts per member so groups with a larger headcount will have to make more complex projects. Otherwise, I found that class pretty easy. 361 with Maratos is goated. Watch/attend lectures and you'll be fine. Nowhere near as bad as 261 imo.

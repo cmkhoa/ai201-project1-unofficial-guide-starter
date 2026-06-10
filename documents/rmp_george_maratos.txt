@@ -1,0 +1,25 @@
+SOURCE: https://www.ratemyprofessors.com/professor/2844376
+PROFESSOR: George Maratos
+DEPARTMENT: Computer Science
+SCHOOL: University of Illinois Chicago
+OVERALL RATING: 4.9/5 (39 ratings)
+DIFFICULTY: 2.7/5
+WOULD TAKE AGAIN: 95%
+COURSES TAUGHT: CS361
+
+--- STUDENT REVIEWS ---
+
+REVIEW | Course: CS361 | Date: May 24, 2026 | Rating: 5.0 | Difficulty: 1.0 | Grade: A+ | Tags: Amazing lectures, Clear grading criteria, Caring
+Genuinely the best professor I've ever had by miles. Probably the best at UIC.
+
+REVIEW | Course: CS361 | Date: May 1, 2026 | Rating: 5.0 | Difficulty: 3.0 | Tags: Amazing lectures, Clear grading criteria, Inspirational
+Extremely clear, resourceful and inclusive instructional approach that positively impacted your educational journey.
+
+REVIEW | Course: CS361 | Date: May 1, 2026 | Rating: 5.0 | Difficulty: 3.0 | Tags: Amazing lectures, Inspirational
+Engaging and fair with challenging material. GOATED.
+
+REVIEW | Course: CS361 | Date: Dec 12, 2025 | Rating: 5.0 | Difficulty: 3.0 | Grade: A+ | Tags: Extra Credit, Amazing lectures
+Best professor I have taken all 4 years as an engineering student. Optional labs with extra credit and homework resubmission opportunities.
+
+REVIEW | Course: CS361 | Date: Nov 18, 2025 | Rating: 4.0 | Difficulty: 3.0 | Grade: A- | Tags: Extra Credit, Amazing lectures
+Lectures provide substantial information but implementation details could be more comprehensive.

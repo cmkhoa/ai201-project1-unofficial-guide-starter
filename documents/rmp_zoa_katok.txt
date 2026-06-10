@@ -1,0 +1,25 @@
+SOURCE: https://www.ratemyprofessors.com/professor/2972083
+PROFESSOR: Zoa Katok
+DEPARTMENT: Computer Science
+SCHOOL: University of Illinois Chicago
+OVERALL RATING: 4.3/5
+DIFFICULTY: 2.7/5
+WOULD TAKE AGAIN: 88%
+COURSES TAUGHT: CS151
+
+--- STUDENT REVIEWS ---
+
+REVIEW | Course: CS151 | Date: Jun 3, 2026 | Rating: 4.0 | Difficulty: 3.0 | Grade: B | Tags: Lecture heavy, Test heavy
+Chill Professor, Lecture and Test Heavy.
+
+REVIEW | Course: CS151 | Date: Dec 18, 2025 | Rating: 5.0 | Difficulty: 2.0 | Grade: B | Tags: Caring, Amazing lectures, Participation matters
+Professor demonstrated care by helping students grasp material during office hours and offered bonus assignments for extra credit.
+
+REVIEW | Course: CS151 | Date: May 17, 2025 | Rating: 5.0 | Difficulty: 3.0 | Grade: B
+Material presented some confusion, but the instructor delivers quality teaching.
+
+REVIEW | Course: CS151 | Date: May 8, 2025 | Rating: 5.0 | Difficulty: 2.0 | Grade: A- | Tags: Amazing lectures, Caring, Accessible
+Instruction characterized as clear and well-organized with timely material posting.
+
+REVIEW | Course: CS151 | Date: May 7, 2025 | Rating: 1.0 | Difficulty: 2.0 | Grade: B | Tags: Tough grader, Lots of homework
+Described inconsistent exam structure changes and strict answer-key grading.

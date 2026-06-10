@@ -69,11 +69,11 @@ For this project, I am thinking of using some different chunking strategies. The
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Who can I pick to be the best for CS 251? | Daniel Ayala |
-| 2 | Should I take CS 211, 251, 261 and 301 all at the same time? | Probably not |
-| 3 | What courses should I take with CS 341 | CS 342 or CS 361 |
-| 4 | What do most students think of professor Ayala | sweet and chill |
-| 5 | How is CS 401 with DasGupta | Easy A |
+| 1 | Who is the best professor for CS 361? | George Maratos |
+| 2 | Should I take CS 211, 251, and 261 all in the same semester? | Probably not — very heavy workload, not recommended |
+| 3 | Is it a good idea to take CS 361, 362, and 341 together? | Doable, but 362 is the hardest of the three |
+| 4 | What do students think of Professor Gonzalo Bello for CS 301? | Extremely well-reviewed — clear lectures, highly recommended |
+| 5 | What are some easier 400-level CS courses to take? | CS 418 (data science) and CS 407 (economics and computation) mentioned as options |
 
 ---
 

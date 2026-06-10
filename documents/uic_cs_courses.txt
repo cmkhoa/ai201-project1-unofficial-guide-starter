@@ -1,0 +1,144 @@
+SOURCE: https://catalog.uic.edu/ucat/course-descriptions/cs/
+TITLE: CS Course Descriptions - University of Illinois Chicago
+
+--- INTRODUCTORY COURSES ---
+
+CS 100 (3 hrs): Fundamentals of computing; history of computation; computer organization. Covers program design, web design, and societal computing issues. Not for engineering majors.
+
+CS 107 (4 hrs): Access and use of computing resources. Programming and program design. Requires MATH 180 concurrently.
+
+CS 109 (3 hrs): MATLAB-based programming for engineers covering numeric computation and engineering applications. Requires MATH 180.
+
+CS 111 (3 hrs): Introduction to programming: control structures; variables and data types. Includes arrays and programming exercises.
+
+CS 112 (3 hrs): Programming using biology contexts, covering the central dogma and genetics. Co-listed as BIOS 112.
+
+CS 113 (3 hrs): Programming introduction using law and public policy as context, including security and encryption topics.
+
+--- CORE COMPUTER SCIENCE ---
+
+CS 141 (3 hrs): Data abstraction and modular design; recursion; lists and stacks. Prerequisite: Grade C or better in CS 111/112/113/107/109.
+
+CS 151 (3 hrs): Discrete mathematics concepts fundamental to computing: propositional logic. Covers sets, functions, graphs, and combinatorics.
+
+CS 211 (3 hrs): Software development tools and practices; debugging and testing. Requires CS 141 or CS 107.
+
+CS 218 (3 hrs): Applied data science and AI introduction with cross-disciplinary team projects. Requires junior standing and statistics/math prerequisites.
+
+CS 251 (4 hrs): Design, usage and analysis of data structures: review of lists, stacks and queues. Requires CS 141/107 and CS 151.
+
+CS 261 (4 hrs): Data representation and computer arithmetic; machine language; addressing. Covers processor architecture and pipelining.
+
+CS 277 (3 hrs): Technical communication training including portfolios, interviews, and presentations. Requires CS 141.
+
+--- ADVANCED THEORETICAL COURSES ---
+
+CS 301 (3 hrs): Regular sets and finite automata. Context-free languages. Covers Turing machines and decidability. Requires CS 151 and CS 251.
+
+CS 341 (3 hrs): Programming paradigms, design, parsing, runtime systems, and functional programming. Requires CS 211 and CS 251.
+
+CS 342 (3 hrs): Software design principles and practices: Object-oriented design; design patterns. Requires CS 251 and CS 211.
+
+CS 351 (3 hrs): Advanced data structures and algorithms with amortized analysis emphasis. Requires CS 251 and CS 211.
+
+CS 361 (4 hrs): Systems programming covering virtual memory, I/O, concurrency, and network programming. Requires CS 251, CS 211, and CS 261.
+
+CS 362 (4 hrs): Hardware fundamentals from logic gates through CPU design and I/O systems. Requires CS 211 and CS 261.
+
+CS 377 (3 hrs): Computing ethics alongside communication skills for professionals. Requires or concurrent with CS 251.
+
+CS 378 (3 hrs): Multi-platform app development using software frameworks and native code integration. Requires CS 342.
+
+--- SPECIALIZED TOPICS (400-LEVEL) ---
+
+CS 401 (3-4 hrs): Design and analysis of computer algorithms. Divide-and-conquer, dynamic programming. Covers sorting, searching, and NP-complete problems. Co-listed as MCS 401.
+
+CS 402 (3-4 hrs): Algorithm implementation emphasizing dynamic programming and heuristics for NP-hard problems. Requires CS 401.
+
+CS 407 (3-4 hrs): Game theory, mechanism design, and auction theory applied to markets and computation.
+
+CS 411 (3-4 hrs): Definitions of intelligence and AI, autonomous agents. Covers search, adversarial search, and generative AI. Requires CS 251.
+
+CS 412 (3-4 hrs): Mechanism, implementation, and application of systems that improve automatically. Covers classification and clustering. Requires CS 251 and statistics course.
+
+CS 415 (3-4 hrs): Fundamental concepts and techniques in computer vision; image filtering, feature detection. Requires CS 202 or MCS 360.
+
+CS 418 (3-4 hrs): Data science in engineering covering modeling, storage, and big data topics. Requires CS 251 and statistics.
+
+CS 421 (3-4 hrs): Natural language processing including parsing, semantic interpretation, and dialogue. Requires CS 301 or MCS 441.
+
+CS 422 (3-4 hrs): User interface design, implementation, and evaluation: user-centered design methodologies. Requires CS 342.
+
+CS 423 (3-4 hrs): Natural user interactions covering design principles and evaluation techniques. Requires CS 342.
+
+CS 424 (3-4 hrs): Visualization types including geospatial, scientific, and information visualization. Requires CS 251.
+
+CS 425 (3-4 hrs): Principles of interactive computer graphics. Raster and vector display. Requires CS 251.
+
+CS 426 (3-4 hrs): Video game design and development with interdisciplinary teams. Co-listed as DES 426. Requires CS 251.
+
+CS 427 (3-4 hrs): Creative coding applying computational techniques to art making. Co-listed as DES 427. Requires CS 251.
+
+CS 428 (3-4 hrs): Virtual/augmented/mixed reality environments and interaction design. Requires CS 342.
+
+CS 440 (3-4 hrs): Software life-cycle model, requirement specification techniques. Covers testing and maintenance. Requires CS 342.
+
+CS 441 (3-4 hrs): Distributed object engineering for cloud computing. Requires CS 341 or CS 342, and CS 361.
+
+CS 442 (3-4 hrs): Advanced concepts in software development: requirements engineering, cost estimation. Requires CS 440.
+
+CS 450 (3-4 hrs): Network protocols, algorithms, and software issues including OSI model and TCP/IP. Requires CS 361.
+
+CS 453 (3-4 hrs): Parallel and distributed processing foundations covering MPI and peer-to-peer systems. Requires CS 251.
+
+CS 454 (3-4 hrs): Concurrent programming principles and correctness. Requires CS 361.
+
+CS 455 (3-4 hrs): High-performance computing architecture and supercomputer development. Requires CS 361.
+
+CS 461 (3-4 hrs): Kernel design and implementation; process management; resource allocation. Requires CS 361.
+
+CS 463 (3-4 hrs): Systems performance factors and program optimization. Requires CS 361.
+
+CS 466 (3-4 hrs): Computer architecture covering instruction sets, pipelining, and caches. Co-listed as ECE 466. Requires ECE 366 or CS 261.
+
+CS 468 (3-4 hrs): Basic concepts of security and privacy, and principles and practice of network security. Requires CS 361.
+
+CS 472 (3-4 hrs): Theorem proving and program logics for formal correctness proofs. Requires CS 341.
+
+CS 473 (3-4 hrs): Compiler design from lexical analysis through code generation. Co-listed as MCS 411. Requires CS 301, CS 251, and CS 261.
+
+CS 474 (3-4 hrs): Object-oriented languages covering abstraction, inheritance, and polymorphism. Requires CS 342.
+
+CS 475 (3-4 hrs): Object-oriented programming in C++ and Java. Requires CS 202 and instructor consent.
+
+CS 476 (3-4 hrs): Programming language design, definition, and implementation. Co-listed as MCS 415. Requires MCS 360 or CS 341.
+
+CS 477 (3-4 hrs): Contemporary legal, policy, and ethical computing issues emphasizing privacy and security.
+
+CS 478 (3-4 hrs): Mobile application design and implementation. Requires CS 342.
+
+CS 479 (3-4 hrs): Wearable/nearable device design and sensor data processing. Co-listed as BME 479. Requires BME 240 or CS 251.
+
+CS 480 (3-4 hrs): Database design, logical design, physical design. Relational databases. Requires CS 251.
+
+CS 483 (3-4 hrs): Data mining for very large datasets including similarity search, data-stream processing. Requires CS 251 and statistics.
+
+CS 484 (3-4 hrs): Secure web application development teaching security through web development. Requires CS 341 or concurrent enrollment.
+
+CS 487 (3-4 hrs): Secure systems building protecting against threats and vulnerabilities. Requires CS 385 and senior standing.
+
+CS 488 (3-4 hrs): Cryptography covering encryption, hashing, signatures, and blockchain. Requires CS 251 and statistics.
+
+CS 489 (3-4 hrs): Human augmentation technologies including wearables and brain-computer interfaces. Co-listed as BME 489. Requires CS 251.
+
+--- SPECIAL COURSES ---
+
+CS 194 (1-3 hrs): First-year special topics varying by term.
+CS 292 (1 hr): TA training covering timesheets, office hours, and accessibility.
+CS 294 (1-3 hrs): Sophomore-level special topics.
+CS 391 (1 hr): Professional internship experience (max 3 hours toward degree).
+CS 394 (1-3 hrs): Junior-senior level special topics.
+CS 398 (1-3 hrs): Undergraduate design/research under faculty supervision.
+CS 491 (1-4 hrs): Seminar on topics of mutual faculty-student interest.
+CS 494 (1-4 hrs): Senior/graduate special topics.
+CS 499 (0 hrs): Professional development seminar for graduating seniors including Major Field Exam.

@@ -1,0 +1,44 @@
+SOURCE: https://www.reddit.com/r/uichicago/comments/zgmng3/uic_cs_courses/
+TITLE: UIC CS Courses
+SUBREDDIT: r/uichicago
+
+POST: Anyone taken CS 211, 251, 261, 301 and 377 in a single semester? How was it? Can anyone survive the course load?
+
+COMMENT | u/KingSP3:
+You forgot 361 and 401.
+
+COMMENT | u/DankMagician2500 | CS graduate 22:
+Don't bring up ptsd courses.
+
+COMMENT | u/Olangotang | CS Alumni 21:
+Yes. It sucks, unless you have a really good support group. I took 377 with 341, 342, 361, 362, which was slightly easier than the Four Horsemen (200s + 301). 211 is easy but busy work. 251 depends, but it's more moderate/hard. 261: I fucking hated 261. Good luck, 2nd exam will destroy your hope for an A. 301: Moderate difficulty, I had Bello. Barely got an A.
+
+COMMENT | u/DankMagician2500 | CS graduate 22:
+Thank god when I took 261 we did not have exams and 301 he allowed us to use his notes and his answers were straight from there. 251 got easier — you can skip the projects and pull a C now. They have milestones so you get points for completing each phase of the project.
+
+COMMENT | u/Olangotang | CS Alumni 21:
+For 251 Hummel gave us the option to take the Final or use our midterms divided by 2. I took the final and it screwed me out of an A. Taking the average would have given me an A.
+
+COMMENT | u/mercaptan_:
+It's difficult. It depends on your work ethic and if you have experience with any of these. What will your learning curve be? Do you have prior experience with data structures / C / C++? If not, it just isn't wise to treat these courses as boxes you check off. Midterms/finals time will be a nightmare and project due dates will overlap a lot. I would suggest replacing 261 at the least.
+
+COMMENT | u/DankMagician2500 | CS graduate 22:
+I would get rid of CS 301. 301 has no gates really — if you take 261 the next semester they can take 342 and 361 which helps your resume a lot.
+
+COMMENT | u/ccayeknom | CS SP24:
+I just took CS 211, CS 251, CS 301 and CS 377. It was a lot of work and projects overlapped all the time. Although Reed/Kidane were nice enough to extend program (CS 211) due dates when these overlaps occurred. CS 251 will take up most of your time so start projects early. CS 301 is also a lot of work with a quiz every Friday and lengthy/challenging homeworks throughout the semester. CS 377 was a breeze with Clayville — just do your work and participate and you can get an A.
+
+COMMENT | u/buddsri:
+Not a good idea man, you have to stay on top of your game with 251, and 261 is a tough class. 301 is a lot of work as well. I would recommend taking a different class than 261. It's definitely doable, but honestly not a good idea.
+
+COMMENT | u/TheMan095:
+It was kinda rough. I had 211 Lilis, 251 Troy, 261 Theys, 301 McCarty, and 220 math Prostak. 220 (A) with some work, 211 (A) with less work, 251 (A) with good work, 301 (A) with no work, 261 (A) a lot of work. But in order to do all of that, I skipped 211, 251, 301 lectures because 220 and 261 were basically mandatory. Plus I still had time to go out. 8/10 would grind again.
+
+COMMENT | u/DankMagician2500 | CS graduate 22:
+I mean all passable yeah but should you? No. Just do 211, 251, 261 and take a math course. Just start your stuff early and it should be fine.
+
+COMMENT | u/Cryptic_Rogue1 | CS Transfer 2025:
+Are those the only classes considered soul crushing in CS or are there more? The more and more I hear people say not to take 211, 251, and 261 together, the more I'm trying to explore options. Even Prof Kidane advised my 141 class that it's possible to take all 3 but she wouldn't recommend it.
+
+COMMENT | u/DankMagician2500 | CS graduate 22:
+Most soul crushing class is probably 361.

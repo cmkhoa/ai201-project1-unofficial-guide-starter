@@ -1,0 +1,25 @@
+SOURCE: https://www.ratemyprofessors.com/professor/1077446
+PROFESSOR: Jan Verschelde
+DEPARTMENT: Computer Science
+SCHOOL: University of Illinois Chicago
+OVERALL RATING: 3.6/5 (14 ratings)
+DIFFICULTY: 3.6/5
+WOULD TAKE AGAIN: 60%
+COURSES TAUGHT: MCS481, MCS472, MCS320
+
+--- STUDENT REVIEWS ---
+
+REVIEW | Course: MCS481 | Date: May 27, 2026 | Rating: 5.0 | Difficulty: 2.0 | Grade: A | Tags: Group projects
+Didn't show up to class once except for projects, do your work and assignments.
+
+REVIEW | Course: MCS481 | Date: Mar 7, 2026 | Rating: 1.0 | Difficulty: 2.0 | Tags: Tough grader, Group projects
+For MCS 472, not really teaching anything. Just reading off slides, grades mainly came from projects.
+
+REVIEW | Course: MCS481 | Date: Apr 16, 2024 | Rating: 5.0 | Difficulty: 3.0 | Grade: A | Tags: Extra credit, Group projects, Accessible outside class
+Very willing to allow you to learn for yourself. Cares more about you learning something.
+
+REVIEW | Course: MCS481 | Date: Nov 8, 2023 | Rating: 4.0 | Difficulty: 3.0 | Grade: Incomplete | Tags: Participation matters, Caring
+Professor was very accommodating, and pushed deadlines when we needed it.
+
+REVIEW | Course: MCS320 | Date: Aug 15, 2023 | Rating: 1.0 | Difficulty: 5.0 | Grade: Audit/No Grade | Tags: Tough grader, Lots of homework, Graded by few things
+Doesn't actually teach. Expects the student to teach themselves based on old content.

@@ -1,0 +1,23 @@
+SOURCE: https://www.reddit.com/r/uichicago/comments/1g61kar/easy_400_lvl_cs_classes/
+TITLE: Easy 400 Level CS Classes
+SUBREDDIT: r/uichicago
+
+POST: I will be registering for my final/ultimate semester in 2 weeks. I have 3 tech electives remaining before I graduate and I want to have a relatively chill semester. So I need your help to find easy 400-level CS classes. So far I did CS468, CS473, CS480. Now I need the easiest classes for the next 3. I am open to 500-level recommendations if one is particularly easy and/or interesting with a decent workload. Thank you.
+
+COMMENT | u/Gloomy_Charge_7728:
+I'm in the same boat. How are 468 and 473?
+
+COMMENT | u/Mental_Address | OP:
+468 is a lot more fun, I am liking it so far — it's very interesting. 473 is a good class, I am struggling because I lost interest. That's why I want easier tech electives next semester.
+
+COMMENT | u/atkoehler | Professor Koehler:
+My suggestion would be to find classes that you'll be passionate about, even if it's a newer topic for you, in your final semester and take those without worrying about whether they are easy or not. Passion and interest can greatly increase learning potential and personal learning depth for a course as you become interested in pursuing knowledge versus just potentially being satisfied with getting through the course.
+
+COMMENT | u/Mental_Address | OP:
+I genuinely tried that this semester with CS441, and professor, I really value your input on this. But it turned out that despite reviews of it being a great class and everyone suggesting it, I ended up dropping that class because of how vague the project descriptions were and how different the class material was compared to the actual work. Which is why I plan to conclude my degree with some easy classes to have better time for my grad school and other applications.
+
+COMMENT | u/atkoehler | Professor Koehler:
+I understand. Easy classes can become difficult if you have only minimal interest in them. If your pathway is leading you to graduate school it may be worth investigating how easy/interested you are in classes such as Introduction to Data Science, Intro to Machine Learning, Introduction to Networking. I honestly do not know whether students classify those classes as easy or difficult, but they allow you to have a superior baseline of knowledge to take and succeed in more advanced classes in graduate school.
+
+COMMENT | u/Mental_Address | OP:
+Absolutely. Some of the courses I plan to explore are 418 (intro to data science) and 407 (economics and computation). Along with that I have some other interests like 484 secure web dev (which is only offered in fall and I was not able to take this time due to scheduling conflicts). So I plan to substitute the remaining slot in my next semester with an easy/low-effort course with minimal workload to allow myself to explore other fields of interest.
